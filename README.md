@@ -1,91 +1,104 @@
-# Java OOP Practical Practice – Set 1
+# ☕ Java OOP Practical Practice — Set 1
 
-This repository contains solutions for 12 Java Object-Oriented Programming practical questions. The programs are written in a simple way so they are easy to understand, run, and explain in a viva.
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk" alt="Java">
+  <img src="https://img.shields.io/badge/Concepts-OOP-blue?style=for-the-badge" alt="OOP">
+  <img src="https://img.shields.io/badge/Programs-12-success?style=for-the-badge" alt="Programs">
+  <img src="https://img.shields.io/badge/Level-Beginner%20%7C%20Intermediate-purple?style=for-the-badge" alt="Level">
+</p>
 
-**Note:** The `Main.java` file is the 10th question/code in this set. It demonstrates public, protected, and private access modifiers.
+<p align="center">
+  <b>A practical collection of Java programs designed to strengthen Object-Oriented Programming concepts.</b>
+</p>
 
-## Programs Included
+---
 
-1. **ATM PIN Validation**  
-   Validates whether the entered PIN contains exactly 4 numeric digits.
+## 📌 About This Repository
 
-2. **Library Fine Calculation**  
-   Calculates a fine of ₹5 for every day a book is returned late.
+This repository contains a collection of **Java OOP practical programs** created for academic practice, laboratory work, viva preparation, and strengthening Java programming fundamentals.
 
-3. **Static Block – Tax Rate**  
-   Uses a static block to initialize a common tax rate only once.
+The programs demonstrate important concepts of **Object-Oriented Programming and Core Java** through simple and practical examples.
 
-4. **Bank Account Transfer**  
-   Transfers money between two account objects after checking the available balance.
+---
 
-5. **Driver Object Sharing**  
-   Demonstrates how two trip bookings can refer to the same driver object.
+## 🖥️ Project Preview
 
-6. **Method Overloading – E-Commerce Cart**  
-   Uses method overloading to calculate a cart total for different situations.
+<p align="center">
+  <img src="./assets/java-oop-practical-set.png" alt="Java OOP Practical Practice Set" width="800">
+</p>
 
-7. **Instance and Static Methods**  
-   Demonstrates an employee-specific bonus and a common company tax slab.
+---
 
-8. **Wrapper Class – Age Check**  
-   Converts age from String to int using the Integer wrapper class.
+## 📚 Programs Included
 
-9. **Static Nested Class – Car and Engine**  
-   Demonstrates a static nested Engine class inside the Car class.
+| No. | Program | Concept |
+|:---:|---|---|
+| 01 | 🔐 ATM PIN Validation | Conditional Statements |
+| 02 | 📚 Library Fine Calculator | Conditions & Calculations |
+| 03 | 💰 Static Block Tax Rate | Static Block |
+| 04 | 🏦 Bank Account Transfer | Classes & Objects |
+| 05 | 🚗 Driver Object Sharing | Object References |
+| 06 | 🛒 E-Commerce Cart | Method Overloading |
+| 07 | ⚙️ Instance and Static Methods | Static & Instance Members |
+| 08 | 🎂 Wrapper Class Age Check | Wrapper Classes |
+| 09 | 🚘 Static Nested Class — Car Engine | Nested Classes |
+| 10 | 🔒 Public, Protected & Private Fields | Access Modifiers |
+| 11 | 🛡️ Encapsulation — Password Checking | Encapsulation |
+| 12 | 👨‍💼 Employee Salary Validation | Data Validation |
 
-10. **Public, Protected and Private Fields – Main.java**  
-    Demonstrates the use of public, protected, and private fields.
+---
 
-11. **Encapsulation – Password Checking**  
-    Keeps the password private and checks it through a public method.
+## 🧠 Concepts Covered
 
-12. **Employee Salary Validation**  
-    Keeps salary private and allows only valid salary increases.
+### Object-Oriented Programming
 
-## Technologies Used
-
-- Java
-- Object-Oriented Programming
 - Classes and Objects
+- Encapsulation
+- Access Modifiers
+- Object References
+- Static Members
+- Static Blocks
+- Nested Classes
+- Method Overloading
+
+### Core Java
+
+- Variables and Data Types
 - Conditional Statements
 - Loops
-- Static Members
-- Method Overloading
+- Methods
+- User Input
+- Type Conversion
 - Wrapper Classes
-- Nested Classes
-- Access Modifiers
-- Encapsulation
+- Data Validation
+- Basic Calculations
 
-Java Assignment/
+---
+
+## 🗂️ Repository Structure
+
+```text
+java-Assignment/
 │
-├── Assignment 1/
-│   └── assignment1.java
-├── Assignment 2/
-│   └── assignment2.java
-├── Assignment 3/
-│   └── assignment3.java
-├── Assignment 4/
-│   └── assignment4.java
-├── Assignment 5/
-│   └── assignment5.java
-├── Assignment 6/
-│   └── assignment6.java
-├── Assignment 7/
-│   └── assignment7.java
-├── Assignment 8/
-│   └── assignment8.java
-├── Assignment 9/
-│   └── assignment9.java
-├── Assignment 10/
-│   └── Main.java
-├── Assignment 11/
-│   └── assignment11.java
-└── Assignment 12/
-    └── assignment12.java
-## How to Run
-
-Open the required `.java` file in VS Code and click Run, or use the terminal:
-
-```bash
-javac filename.java
-java filename
+├── .vscode/
+│
+├── hr/
+│
+├── assets/
+│   └── java-oop-practical-set.png
+│
+├── Main.java
+├── assignment1.java
+├── assignment2.java
+├── assignment3.java
+├── assignment4.java
+├── assignment5.java
+├── assignment6.java
+├── assignment7.java
+├── assignment8.java
+├── assignment9.java
+├── assignment10.java
+├── assignment11.java
+├── assignment12.java
+│
+└── README.md
