@@ -1,7 +1,7 @@
 # ☕ Java OOP Practical Practice — Set 1
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk" alt="Java">
+  <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Concepts-OOP-blue?style=for-the-badge" alt="OOP">
   <img src="https://img.shields.io/badge/Programs-12-success?style=for-the-badge" alt="Programs">
   <img src="https://img.shields.io/badge/Level-Beginner%20%7C%20Intermediate-purple?style=for-the-badge" alt="Level">
@@ -11,20 +11,28 @@
   <b>A practical collection of Java programs designed to strengthen Object-Oriented Programming concepts.</b>
 </p>
 
+<p align="center">
+  Java • OOP • Core Java • Practical Programs • Viva Preparation
+</p>
+
 ---
 
 ## 📌 About This Repository
 
 This repository contains a collection of **Java OOP practical programs** created for academic practice, laboratory work, viva preparation, and strengthening Java programming fundamentals.
 
-The programs demonstrate important concepts of **Object-Oriented Programming and Core Java** through simple and practical examples.
+The programs demonstrate important concepts of **Object-Oriented Programming and Core Java** through simple, practical, and easy-to-understand examples.
 
 ---
 
 ## 🖥️ Project Preview
 
 <p align="center">
-  <img src="./assets/java-oop-practical-set.png" alt="Java OOP Practical Practice Set" width="800">
+  <img src="./assets/java-oop-practical-set.png" alt="Java OOP Practical Practice Set" width="850">
+</p>
+
+<p align="center">
+  <i>Java OOP Practical Practice — Set 1</i>
 </p>
 
 ---
@@ -33,24 +41,24 @@ The programs demonstrate important concepts of **Object-Oriented Programming and
 
 | No. | Program | Concept |
 |:---:|---|---|
-| 01 | 🔐 ATM PIN Validation | Conditional Statements |
-| 02 | 📚 Library Fine Calculator | Conditions & Calculations |
-| 03 | 💰 Static Block Tax Rate | Static Block |
-| 04 | 🏦 Bank Account Transfer | Classes & Objects |
-| 05 | 🚗 Driver Object Sharing | Object References |
-| 06 | 🛒 E-Commerce Cart | Method Overloading |
-| 07 | ⚙️ Instance and Static Methods | Static & Instance Members |
-| 08 | 🎂 Wrapper Class Age Check | Wrapper Classes |
-| 09 | 🚘 Static Nested Class — Car Engine | Nested Classes |
-| 10 | 🔒 Public, Protected & Private Fields | Access Modifiers |
-| 11 | 🛡️ Encapsulation — Password Checking | Encapsulation |
-| 12 | 👨‍💼 Employee Salary Validation | Data Validation |
+| 01 | 🔐 **ATM PIN Validation** | Conditional Statements |
+| 02 | 📚 **Library Fine Calculator** | Conditions & Calculations |
+| 03 | 💰 **Static Block Tax Rate** | Static Block |
+| 04 | 🏦 **Bank Account Transfer** | Classes & Objects |
+| 05 | 🚗 **Driver Object Sharing** | Object References |
+| 06 | 🛒 **E-Commerce Cart** | Method Overloading |
+| 07 | ⚙️ **Instance and Static Methods** | Static & Instance Members |
+| 08 | 🎂 **Wrapper Class Age Check** | Wrapper Classes |
+| 09 | 🚘 **Static Nested Class — Car Engine** | Nested Classes |
+| 10 | 🔒 **Public, Protected & Private Fields** | Access Modifiers |
+| 11 | 🛡️ **Encapsulation — Password Checking** | Encapsulation |
+| 12 | 👨‍💼 **Employee Salary Validation** | Data Validation |
 
 ---
 
 ## 🧠 Concepts Covered
 
-### Object-Oriented Programming
+### 🧩 Object-Oriented Programming
 
 - Classes and Objects
 - Encapsulation
@@ -61,7 +69,7 @@ The programs demonstrate important concepts of **Object-Oriented Programming and
 - Nested Classes
 - Method Overloading
 
-### Core Java
+### ☕ Core Java
 
 - Variables and Data Types
 - Conditional Statements
@@ -72,6 +80,18 @@ The programs demonstrate important concepts of **Object-Oriented Programming and
 - Wrapper Classes
 - Data Validation
 - Basic Calculations
+
+---
+
+## 🛠️ Technology Stack
+
+| Technology | Purpose |
+|---|---|
+| ☕ Java | Programming Language |
+| 🧩 OOP | Object-Oriented Programming |
+| 💻 VS Code | Development Environment |
+| 🔧 Git | Version Control |
+| 🌐 GitHub | Repository Hosting |
 
 ---
 
