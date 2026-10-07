@@ -122,3 +122,142 @@ java-Assignment/
 ├── assignment12.java
 │
 └── README.md
+⚡ How to Run
+1. Clone the Repository
+git clone https://github.com/Amitjapulkar26/java-Assignment.git
+
+2. Open the Project
+cd java-Assignment
+
+Open the project in VS Code or any Java-supported IDE.
+3. Compile a Program
+javac assignment1.java
+
+4. Run the Program
+java assignment1
+
+Replace assignment1 with the required program.
+Example
+javac assignment10.java
+java assignment10
+
+🎯 Learning Objectives
+This practical set helps students:
+- Understand Java programming fundamentals.
+- Understand Object-Oriented Programming.
+- Create and use classes and objects.
+- Work with static and instance members.
+- Practice method overloading.
+- Understand access modifiers.
+- Implement encapsulation.
+- Work with nested and wrapper classes.
+- Apply Java concepts to real-world problems.
+- Prepare for practical examinations and viva.
+🔄 Learning Flow
+Java Basics
+     ↓
+Classes & Objects
+     ↓
+Methods
+     ↓
+Static Members
+     ↓
+Method Overloading
+     ↓
+Wrapper Classes
+     ↓
+Nested Classes
+     ↓
+Access Modifiers
+     ↓
+Encapsulation
+     ↓
+Real-World Java Programs
+
+📊 Repository Overview
+Category	Details
+☕ Language	Java
+🧩 Paradigm	Object-Oriented Programming
+📚 Total Programs	12
+🎯 Difficulty	Beginner → Intermediate
+💻 IDE	VS Code
+🌐 Platform	GitHub
+📖 Purpose	Academic Practice
+🎤 Viva Ready	Yes
+
+
+🚀 Future Improvements
+- [ ] Inheritance
+- [ ] Multilevel Inheritance
+- [ ] Method Overriding
+- [ ] Runtime Polymorphism
+- [ ] Abstraction
+- [ ] Interfaces
+- [ ] Exception Handling
+- [ ] Packages
+- [ ] Collections Framework
+- [ ] File Handling
+- [ ] Multithreading
+- [ ] JDBC
+- [ ] Mini Java Projects
+- [ ] Output screenshots for every program
+🎓 Academic Use
+This repository is intended for educational and academic purposes.
+Suitable For
+🎓 College Practicals
+📝 Assignments
+💻 Programming Practice
+🎤 Viva Preparation
+📚 Concept Revision
+🧠 Logic Building
+
+💡 Why This Repository?
+Learning programming only through theory is not enough.
+This repository focuses on small practical programs that connect Java concepts with real-world situations.
+Understand the concept first. Write the code second. Explain it confidently third.
+
+👨‍💻 Author
+<p align="center">
+
+Amit Japulkar
+CSE — Artificial Intelligence & Machine Learning
+S. B. Jain Institute of Technology, Management & Research, Nagpur
+</p>
+
+⭐ Support
+If this repository helped you learn or revise Java OOP concepts:
+⭐ Star the repository
+🍴 Fork the repository
+📚 Use the programs for learning and practice
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-OOP-orange?style=flat-square&logo=openjdk">
+  <img src="https://img.shields.io/badge/Practical-Set%201-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/12-Programs-success?style=flat-square">
+  <img src="https://img.shields.io/badge/Academic-Project-purple?style=flat-square">
+</p>
+
+<p align="center">
+  <b>☕ Learn Java • 🧠 Build Logic • 💻 Practice OOP • 🚀 Keep Coding</b>
+</p>
+```
+
+Fix the broken image
+In your GitHub repository:
+1. Click Add file → Upload files
+2. Create/upload this exact structure:
+assets
+└── java-oop-practical-set.png
+
+3. Upload the screenshot you showed me.
+4. Commit the file.
+Your repository should then look like:
+java-Assignment
+├── .vscode
+├── hr
+├── assets
+│   └── java-oop-practical-set.png   ← THIS IS MISSING
+├── Main.java
+├── README.md
+├── assignment1.java
+├── ...
+└── assignment12.java
